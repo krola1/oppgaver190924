@@ -1,0 +1,14 @@
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.AssemblyInfoInputs.cache
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.AssemblyInfo.cs
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.csproj.CoreCompileInputs.cache
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\bin\Debug\net8.0\oppgaver190924.exe
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\bin\Debug\net8.0\oppgaver190924.deps.json
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\bin\Debug\net8.0\oppgaver190924.runtimeconfig.json
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\bin\Debug\net8.0\oppgaver190924.dll
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\bin\Debug\net8.0\oppgaver190924.pdb
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.dll
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\refint\oppgaver190924.dll
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.pdb
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\oppgaver190924.genruntimeconfig.cache
+C:\Users\larsw\Documents\Koding\C#\oppgaver190924\obj\Debug\net8.0\ref\oppgaver190924.dll

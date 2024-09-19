@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "oppgaver190924/1.0.0": {
+        "runtime": {
+          "oppgaver190924.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oppgaver190924/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
